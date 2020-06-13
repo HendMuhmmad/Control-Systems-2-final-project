@@ -1,0 +1,1 @@
+"./UART.obj" "./input.obj" "./main.obj" "./output.obj" "./output_tf.obj" "./simulate.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a -l"C:/Keil/Labware/driverlib/ccs/Debug/driverlib.lib" 
